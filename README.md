@@ -1,20 +1,28 @@
 <h1 align="center">Hi there 👋, I'm Eshani S Nair</h1>
-<p align="center">A passionate coder who enjoys building projects and exploring new technologies.</p>
+<p align="center">✨Coder | Problem Solver </p>
+
+---
+
+### 🔥 Currently Doing
+- 🧠 **DSA Grind** (practicing problems daily)  
+- 🤖 Learning **Supervised Machine Learning** by *Andrew Ng*  
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on full-stack web development projects  
-- 🌱 Currently learning **Machine Learning & Deep Learning** in Python by **Holczer Balazs**  
-- 💻 Also learning **Full Stack Web Development**  
-- 🧪 Experienced in **Object Detection** using **YOLO** and **OpenCV**  
-- 🧩 I love solving problems, building real-world projects, and exploring developer tools  
-- 🌐 I'm also interested in combining Machine Learning with Web Technologies
+- 🔭 Currently working on **Full-Stack Web Development** projects  
+- 📘 Sharpening my skills in **Data Structures & Algorithms (DSA)**  
+- 🤖 Learning **Supervised Machine Learning** by *Andrew Ng*  
+- 🌱 Also diving into **Machine Learning & Deep Learning in Python** by *Holczer Balazs*  
+- 🧪 Experienced in **Object Detection** using **YOLO** + **OpenCV**  
+- 🧩 I enjoy blending **Machine Learning** with **Web Technologies** to create meaningful projects  
+- 💻 Comfortable coding in **VS Code** and **PyCharm**  
+- 💡 Always curious & excited to learn something new every day ✨  
 
 ---
 
-### 💻 Languages & Tools
+### 💻 Languages, Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -29,22 +37,24 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
-
 
 ---
 
 ### 📚 Courses I'm Taking
 
-- 🧠 **Machine Learning & Deep Learning Bootcamp in Python** by *Holczer Balazs*  
-- 🌐 **The Complete 2025 Web Development Bootcamp** by *Angela Yu*
+- 🧠 **Supervised Machine Learning** by *Andrew Ng*  
+- 🤖 **Machine Learning & Deep Learning Bootcamp in Python** by *Holczer Balazs*  
+- 🌐 **The Complete 2025 Web Development Bootcamp** by *Angela Yu*  
 
 ---
 
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/eshani-s-nair)  
-- 📁 Check out my repositories and pinned projects below!
+- 📁 Check out my repositories and pinned projects below!  
 
 ---
 
@@ -61,3 +71,5 @@
 </p>
 
 ---
+
+🌟 *"Code, Learn, Build, Repeat!"* 🚀
