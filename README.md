@@ -3,11 +3,6 @@
 
 ---
 
-### 🔥 Currently Doing
-- 🧠 **DSA Grind** (practicing problems daily)  
-
----
-
 ### 🧠 About Me
 
 - 🔭 Currently working on **Full-Stack Web Development** projects  
