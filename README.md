@@ -5,7 +5,6 @@
 
 ### 🔥 Currently Doing
 - 🧠 **DSA Grind** (practicing problems daily)  
-- 🤖 Learning **Supervised Machine Learning** by *Andrew Ng*  
 
 ---
 
