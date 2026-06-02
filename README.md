@@ -52,18 +52,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshani-s-nair&show_icons=true&theme=radical" alt="Eshani's GitHub Stats" />
-</p>
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshani-s-nair&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 🌟 *"Code, Learn, Build, Repeat!"* 🚀
